@@ -46,19 +46,7 @@ body{
     display:flex;
     background-color:#ffffff
 }
-/*
-.logo h2{
-    height:45px;
-    width:100px;
-    margin-right:120px;
-    margin-left:50px;
-    padding:auto;
-}
-.searchdiv i{
-    font-size:20px;
-    margin:10px auto;
-    cursor:pointer;
-}*/
+
 .searchdiv button:hover{
     background-color:darkorange;
 }
@@ -163,4 +151,36 @@ body{
     width:210;
     margin-right:0px;
     border-radius:6px;
+}
+.services{
+    margin-top:20px;
+    display:flex;
+    height:fit-content;
+}
+.services button{
+    width:20%;
+    margin:auto;
+    height:50px;
+    background-color:white;
+    border-radius:6px;
+    border:none;
+    font-size:large;
+    cursor: pointer;
+}
+.footer{
+    margin-top:30px;
+}
+.email{
+    display:block;
+    height:100px;
+}
+.email p{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.email input{
+    margin-top:0px;
+}
+.email.buttons{
+    display:flex;
 }
