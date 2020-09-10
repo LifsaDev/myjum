@@ -20,7 +20,7 @@ body{
     align-items: center;
 }
 .navtop div h1 {
-    flex: 1;
+    flex:1;
     font-size: 24px;
     padding: 0;
     margin: 0;
@@ -39,37 +39,41 @@ body{
 .navtop div a:hover {
     color: #eaebed;
 }
+
 .searchdiv{
-    width:1000px;
     margin-top:20px;
     border:2px solid white;
     height:72px;
     display:flex;
-    background-color:#ffffff
+    background-color:#ffffff;
 }
 
 .searchdiv button:hover{
     background-color:darkorange;
 }
+
 .searchdiv .inputs{
     width:70%;
 }
 .searchdiv .logo{
-    width:20%;
-}
-.searchdiv .icons{
     width:10%;
-    display:inline-flex;
 }
-.searchdiv i{
-    height:40px;
-    font-size:20px;
-    margin:20px 8px;
-    cursor:pointer;
-    margin-top:16px auto;
+
+.searchdiv .icons{
+    width:20%;
+    display:flex;
+    margin:auto;
+}
+.searchdiv .icons a{
+    text-decoration:none;
+    margin:auto;
+    color:black;
+}
+.searchdiv .icons a:hover{
+    color:orange;
 }
 .searchdiv button{
-    width:100px;
+    width:20%;
     background-color:orange;
     border:1px;
     border-radius:5px;
@@ -79,11 +83,15 @@ body{
     color:white;
     cursor:pointer;
     margin-left:10px;
-    
-    
+}
+.searchdiv div.inputs{
+    padding:0px 10px; 
+}
+.serachdiv div.icons a{
+    margin:auto 10px;
 }
 .searchdiv input{
-    width:500px;
+    width:70%;
     height:40px;
     border-radius:5px;
     border:1px solid black;
