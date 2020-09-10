@@ -1,12 +1,14 @@
 body{
     background-color:#f5f5f5;
-    min-width: 700px;
+    min-width: 800px;
+    min-height: 800px;
 }
 .navtop {
     background-color: #2f3947;
     height: 60px;
     width: 100%;
     border: 0;
+    overflow: hidden;
 }
 
 .navtop div {
@@ -167,15 +169,20 @@ body{
     display:flex;
     height:fit-content;
 }
-.services button{
+.services a{
     width:20%;
     margin:auto;
     height:50px;
     background-color:white;
+    color:black;
     border-radius:6px;
     border:none;
-    font-size:large;
+    font-size:1rem;
+    font-weight:bold;
     cursor: pointer;
+    text-decoration:none;
+    text-align:center;
+    padding-top:10px;
 }
 .footer{
     margin-top:30px;
