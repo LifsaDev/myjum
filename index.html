@@ -7,13 +7,12 @@
     <link href="index.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
     <!--<script src="https://use.fontawesome.com/e05f192331.js"></script>-->
+    <script src="index.js"></script>
 </head>
 <body>
     <nav class="navtop">
         <div>
             <h1>Alpha Stores</h1>
-            <a href="profile.php"><i class="fas fa-user-circle"></i>Profile</a>
-            <a href="logout.php"><i class="fas fa-sign-out-alt"></i>Logout</a>
         </div>
     </nav>
     <div class="searchdiv">
@@ -21,8 +20,10 @@
             <h2>Alpha's</h2>
         </div>
         <div class="inputs">
-            <input class="input-field" type="text" placeholder="Search Product Category">
-            <button type="submit" class="search">Search</button>
+            <form action="" method="">
+                <input class="input-field" type="text" placeholder="Search Product Category">
+                <button type="submit" class="search">Search</button>
+            </form>
         </div>
         <div class="icons">
             <a href=""><i class="fa fa-user"></i>Login</a>
@@ -46,17 +47,19 @@
                 <li><a href=""><i class="fa fa-search-plus"></i>Other Category</a></li>
             </ul>
         </div>
-        <div class="categoryresults"></div>
+        <div class="categoryresults">
+            <!--<script type="text/javascript" src="index.js"></script>-->
+        </div>
         <div class="extra">
             <div class="policy"></div>
             <div class="ads"></div>
         </div>
     </div>
     <div class="services">
-        <button>Official Stores</button>
-        <button>Alpha Global</button>
-        <button>Alpha Food</button>
-        <button>Airtime Cashback</button>
+        <a href="">Official Stores</a>
+        <a href="">Alpha Global</a>
+        <a href="">Alpha Food</a>
+        <a href="">Airtime Cashback</a>
     </div>
     <div class="footer">
         <div class="email">
