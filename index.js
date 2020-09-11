@@ -9,7 +9,7 @@ setInterval(function(){
     document.querySelector('.categoryresults').appendChild(img);
 },5000)
 
-
+//dropdowns
 function dropDown(){
     document.getElementById('myDropDown').classList.toggle("show");
 }
@@ -47,3 +47,6 @@ function helpDropDown(){
         }
     } 
  })
+
+ //search bar
+ 
