@@ -1,0 +1,50 @@
+.register-login{
+    display:flex;
+    background-color:white;
+    height:fit-content;
+}
+.user-login{
+    width:50%;
+    border:2px solid;
+}
+.user-login h3{
+    text-align:center;
+    color:orange;
+}
+.user-login form input{
+    margin:20px 5%;
+    width:80%;
+    height:40px;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    outline:none;
+}
+.user-login input[type="checkbox"]{
+    width:10%;
+}
+.user-login .forgot{
+    text-decoration:none;
+    color:orange;
+    margin-left:100px;
+}
+.user-login a:hover{
+    text-decoration:underline;
+}
+.user-login button{
+    margin:10px 5%;
+    height:40px;
+    width:80%;
+    background-color:orange;
+    outline:none;
+    cursor:pointer;
+    color:white;
+    font-weight:bold;
+    font-size:large;
+    border:1px solid;
+    border-radius:4px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.user-login button:hover{
+    background-color:darkorange;
+}
