@@ -7,8 +7,8 @@
     <link href="../styles/index.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="../styles/user.css">
     <link rel="stylesheet" type="text/css" href="../styles/register.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-    <!--<script src="https://use.fontawesome.com/e05f192331.js"></script>-->
+    <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">-->
+    <script src="https://use.fontawesome.com/e05f192331.js"></script>
 </head>
 <body>
     <nav class="navtop">
