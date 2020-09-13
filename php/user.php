@@ -26,5 +26,6 @@
     </div>
 
 <?php include('footer.php');?>
+    <script src="../js/drops.js"></script>
 </body>
 </html>
