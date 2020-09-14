@@ -4,51 +4,8 @@ body{
     background-color:#f5f5f5;
     overflow:scroll;
     min-width:1000px; 
-    //max-width: 100%;
+    max-width: 100%;
 }
-@media only screen and (max-width: 1200px) {
-    body {
-        max-width: 100%;
-
-    }
-    .extra .policy, .extra .ads{
-        display: none;
-    }
-    .div{
-        width: 100%;
-    }
-    .category{
-        width:55%;
-    }
-    .categoryresults{
-        width:;
-    }
-}
-@media only screen and (max-width: 600px){
-    body{
-        max-width: 600px;
-    }
-    .searchdiv{
-        display: inline-block;
-        width: 100%;
-    }
-    .searchdiv .logo{
-        display:none;
-    }
-    .searchdiv .inputs{
-        wi
-    }
-    .div{
-        width: 100%;
-    }
-    .category{
-        display: none;
-    }
-    .services{
-        display: block;
-    }
-}
-
 * {
   box-sizing: border-box;
 }
