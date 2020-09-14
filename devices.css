@@ -35,6 +35,7 @@
     .searchdiv .icons{
         display: inline-block;
         float: left;
+        height:fit-content;
     }
     .searchdiv .icons a{
         display: block;
