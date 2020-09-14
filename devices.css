@@ -61,10 +61,6 @@
     .category ul li a{
         font-size: 40px;
     }
-    .categoryresult img{
-        width: inherit;
-        height: auto;
-    }
     .extra{
         display: none;
     }
