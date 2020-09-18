@@ -1,6 +1,8 @@
 # e-commerce-website
 
 A commercial store dealingg in a wide range of products;
+An almost look-alike of Jumia 
+
 Techs used:
   1.JS-Application logic
   2.HTML -
@@ -13,4 +15,4 @@ Things learnt;
   2.How to use fontawesome icons using CDN.
   2.How to make pop-ups with js functions esp window.onclick.
   
- Live demo >> 
+ Live demo >> https://ealpha072.github.io/e-commerce-website/
