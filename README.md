@@ -1,7 +1,7 @@
-# e-commerce-website
+# E-commerce-website
 
 A commercial store dealingg in a wide range of products;
-An almost look-alike of Jumia 
+An clone of the Jumia wwebsite
 
 ## Techs used:
   * JS-Application logic
@@ -11,7 +11,7 @@ An almost look-alike of Jumia
   * Hack -gradual typing esp for the php;
 
 ## Things learnt;
-  * Mostly dwelt on css nd HTML.Learnt how to position divs side by side and arious display
+  * Mostly dwelt on css and HTML.Learnt how to position divs side by side and various display styles.
   * How to use fontawesome icons using CDN.
   * How to make pop-ups with js functions esp window.onclick.
   
