@@ -15,4 +15,4 @@ A clone of the Jumia wwebsite
   * How to use fontawesome icons using CDN.
   * How to make pop-ups with js functions esp window.onclick.
   
- Live demo >> https://ealpha072.github.io/e-commerce-website/
+ Live demo >> https://ealpha072.github.io/e-commerce-website
