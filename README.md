@@ -1,7 +1,7 @@
 # E-commerce-website
 
-A commercial store dealingg in a wide range of products;
-An clone of the Jumia wwebsite
+An online store dealingg in a wide range of products;
+A clone of the Jumia wwebsite
 
 ## Techs used:
   * JS-Application logic
