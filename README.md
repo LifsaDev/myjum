@@ -16,3 +16,4 @@ A clone of the Jumia wwebsite
   * How to make pop-ups with js functions esp window.onclick.
   
  Live demo >> https://ealpha072.github.io/E-commerce-Website/
+# myjum
